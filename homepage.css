@@ -1,0 +1,19 @@
+header{
+    margin:0;
+}
+.homepage{
+    background-image: url("https://www.apple.com/v/home/images/wwdc26-announce/a/hero_wwdc_teaser__d056yx2exuaa_medium_2x.jpg");
+    height: 900px;
+    background-size:auto auto;
+    Display: flex;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center
+}
+.text{
+    vertical-align: baseline;
+    justify-content: center;
+    
+    
+}
